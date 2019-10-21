@@ -1,0 +1,15 @@
+#display {
+  padding: 0.5em;
+  border-radius: 5px;
+  background: thistle;
+  color: black;
+  font-family: sans-serif;
+  display: column;
+  margin-bottom: 20px;
+  margin-top: -5px;
+  text-align: center;
+}
+
+body {
+  background: paleturquoise;
+}
